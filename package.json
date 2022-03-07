@@ -1,0 +1,24 @@
+{
+  "name": "m34webserver",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u00003\u00004\u0000W\u0000e\u0000b\u0000S\u0000e\u0000r\u0000v\u0000e\u0000r\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CatTiac/M34WebServer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CatTiac/M34WebServer/issues"
+  },
+  "homepage": "https://github.com/CatTiac/M34WebServer#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
